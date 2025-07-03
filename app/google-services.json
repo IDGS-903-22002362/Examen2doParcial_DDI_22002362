@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326686323156",
+    "project_id": "examen2dop",
+    "storage_bucket": "examen2dop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326686323156:android:42d2db21b5ac35de6e6641",
+        "android_client_info": {
+          "package_name": "com.lrosas.examen2do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZIIspCNtKxgobuOfAWAEKtniRDC2S_vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
